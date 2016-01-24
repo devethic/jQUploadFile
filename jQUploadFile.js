@@ -30,7 +30,7 @@
  *	});
  * 
  * @author : devethic
- * @license: absolutly free
+ * @license: GNU General Public License v3
  */
 (function( $ ) {
 
